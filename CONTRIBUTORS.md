@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kropht] (https://github.com/kropht)
+- Place: Hereford, United Kingdom
+- Bio: Computer Science student
+- GitHub: [kropht](https://github.com/kropht)
