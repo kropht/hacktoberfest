@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Kropht] (https://github.com/kropht)
 - Place: Hereford, United Kingdom
-- Bio: Computer Science student
+- Bio: Computer Science student learning the ropes
 - GitHub: [kropht](https://github.com/kropht)
